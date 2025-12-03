@@ -1,0 +1,104 @@
+Privacy Policy for Masaraq
+
+Effective Date: December 3, 2025
+
+Privacy Policy for Masaraq
+
+At Masaraq we respects your privacy and is committed to protecting the personal data we process. This Privacy Policy explains what data we collect, why we collect it, how we use it, who we share it with, and your choices.
+
+1. Information We Collect
+Personal Information (Collected when provided or generated)
+
+Account information: Email address and encrypted password used for sign-in. (Accounts are created by your organization’s admin; there is no open registration.)
+
+Profile details (optional): Name, profile picture, and mobile number.
+
+Company information (provided by Sales users when adding companies):
+id, name, arName, address, arAddress, email, phone, location, industry, arIndustry, commercialRegistrationNumber, commercialRegistrationImage, taxId, taxImage, image, createdBy, status, createdAt, updatedAt, deletedAt, paymentTermId, accepetedOrdersCount, returnedOrdersCount, ordersCount, cityId, discountTypeId, companyResponsibleInfo, paymentTerm, city, discountType, totalOrdersPrice, latestOrder (and related nested fields).
+
+Order information: Order IDs, order status, items, prices, timestamps.
+
+Chat messages: Messages and attachments exchanged in the in-app chat.
+
+Location data: Precise, real-time location of Sales users and Drivers while they are using the app (or when permission is granted), used for live tracking and order status.
+
+Non-personal / Technical Information
+
+Device and usage data: Device model, OS version, app version, and anonymized usage metrics for improving the App.
+
+Locally stored data: Any client-side caches (if used).
+
+2. How We Use Your Information
+
+We use collected data to:
+
+Create and manage user accounts (admin created).
+
+Authenticate users and allow secure sign-in.
+
+Provide role-specific features: show orders, enable drivers to update deliveries, provide supervisor dashboards.
+
+Enable live location tracking for Sales and Drivers to support order tracking and dispatch.
+
+Process and store company profiles and related documents for company management and verification.
+
+Provide and store chat messages for in-app communication.
+
+Respond to support requests and to improve the App.
+
+3. How We Share Your Information
+
+We share personal information only as necessary:
+
+Within your organization: Sales, Drivers, and Supervisors will have access to relevant order and company data per their roles.
+
+Service providers: Hosting, storage, chat or messaging services, real-time location services (e.g., maps), analytics providers — REPLACE this list with actual providers. These providers process data on our behalf under contract.
+
+Legal obligations: If required by law or to protect our rights.
+
+No sale of personal information: We do not sell personal information.
+
+4. Location Access & Live Tracking
+
+Masaraq collects precise location data from Sales and Drivers to enable live tracking. We will ask for location permission at runtime. You may revoke location permission in your device settings, which may disable tracking features.
+
+5. Data Security
+
+We take reasonable administrative, technical, and physical measures to protect your information. Communications between the App and our servers use HTTPS/TLS. However, no method of storage or transmission is 100% secure — use the App responsibly.
+
+6. Your Rights
+
+Depending on your jurisdiction, you may have rights to:
+
+Access personal data we hold about you.
+
+Request correction of inaccurate data.
+
+Request deletion of your account and associated data.
+
+Object to or restrict processing (where applicable).
+To exercise these rights, contact us at the support email/URL listed below.
+
+7. Account Deletion
+
+If you request account deletion, we will remove personal data from our production systems in accordance with our retention policy. Some residual copies may remain in backups for a limited period.
+
+8. Third-Party Services
+
+The App may use third-party services which may collect or process data: e.g., hosting providers, chat SDKs(pusher), maps (Google Maps).
+
+9. Children
+
+The App is not directed to children under 13. If we become aware that we have collected personal information from a child, we will take steps to delete it.
+
+10. Changes to This Privacy Policy
+
+We may update this policy. If we make material changes, we will post a prominent notice in the App or email affected users.
+
+11. Contact Us
+
+If you have questions, concerns, or requests regarding this Privacy Policy, please contact us:
+
+Email: info@coffee-wonders.com
+
+Website: https://backend.masaraq.com
